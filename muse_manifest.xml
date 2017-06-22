@@ -1,0 +1,200 @@
+<manifest alg="2" build="2015.2.1.352" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="Intera4.com" resolutions="1x" timestamp="1498160185066">
+  <folder name="css">
+    <file name="site_global.css" crc="3916556066"/>
+    <file name="master_a-p_g_-maestra.css" crc="498857154" ref="animación:contacto:nosotros:ilustración:index:app:servicios:galería:página-web"/>
+    <file name="animaci_n.css" crc="3842533363" ref="animación"/>
+    <file name="contacto.css" crc="3832506933" ref="contacto"/>
+    <file name="nosotros.css" crc="3802696500" ref="nosotros"/>
+    <file name="ilustraci_n.css" crc="201604330" ref="ilustración"/>
+    <file name="index.css" crc="504201941" ref="index"/>
+    <file name="app.css" crc="3862276177" ref="app"/>
+    <file name="servicios.css" crc="95295938" ref="servicios"/>
+    <file name="galer_a.css" crc="4157386128" ref="galería"/>
+    <file name="p_gina-web.css" crc="184943164" ref="página-web"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="169078940" ref="index:nosotros:servicios:contacto:app:página-web:animación:ilustración:galería"/>
+    <file name="museutils.js" crc="3851988764" ref="index:nosotros:servicios:contacto:app:página-web:animación:ilustración:galería"/>
+    <file name="whatinput.js" crc="86476730" ref="index:nosotros:servicios:contacto:app:página-web:animación:ilustración:galería"/>
+    <file name="museconfig.js" crc="4242129463" ref="index:nosotros:servicios:contacto:app:página-web:animación:ilustración:galería"/>
+    <file name="jquery.musemenu.js" crc="4150485998" ref="index:nosotros:servicios:contacto:app:página-web:animación:ilustración:galería"/>
+    <file name="jquery.watch.js" crc="3842844514" ref="index:nosotros:servicios:contacto:app:página-web:animación:ilustración:galería"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:nosotros:servicios:contacto:app:página-web:animación:ilustración:galería"/>
+    <file name="require.js" crc="4108833657" ref="index:nosotros:servicios:contacto:app:página-web:animación:ilustración:galería"/>
+    <file name="webpro.js" crc="4067903014" ref="nosotros:servicios:contacto:app:página-web:animación:ilustración:galería"/>
+    <file name="musewpslideshow.js" crc="4265225696" ref="nosotros:servicios:contacto:app:página-web:animación:ilustración:galería"/>
+    <file name="jquery.museoverlay.js" crc="4075157096" ref="nosotros:servicios:contacto:app:página-web:animación:ilustración:galería"/>
+    <file name="touchswipe.js" crc="474750357" ref="nosotros:servicios:contacto:app:página-web:animación:ilustración:galería"/>
+    <file name="form_check.php" crc="121412709" ref="contacto"/>
+    <file name="form_throttle.php" crc="4268640971" ref="contacto"/>
+    <file name="form_process.php" crc="444429785" ref="contacto"/>
+    <file name="form-u1218.php" crc="148107311" ref="contacto"/>
+  </folder>
+  <folder name="images">
+    <file name="logo 1-01-u4319.png" crc="3784749680" ref="index:nosotros:servicios:contacto:app:página-web:animación:ilustración:galería"/>
+    <file name="u229-4.png" crc="4293109922" ref="index:nosotros:servicios:contacto:app:página-web:animación:ilustración:galería"/>
+    <file name="u236-4.png" crc="4028625520" ref="index:nosotros:servicios:contacto:app:página-web:animación:ilustración:galería"/>
+    <file name="u274-4.png" crc="26606527" ref="index:nosotros:servicios:contacto:app:página-web:animación:ilustración:galería"/>
+    <file name="arrowmenudown.png" crc="345214036" ref="index"/>
+    <file name="u316-4.png" crc="4136752876" ref="index:nosotros:servicios:contacto:app:página-web:animación:ilustración:galería"/>
+    <file name="u335-4.png" crc="4246373679" ref="index:nosotros:servicios:contacto:app:página-web:animación:ilustración:galería"/>
+    <file name="u356-4.png" crc="4080334440" ref="index:nosotros:servicios:contacto:app:página-web:animación:ilustración:galería"/>
+    <file name="u377-4.png" crc="3874115515" ref="index:nosotros:servicios:contacto:app:página-web:animación:ilustración:galería"/>
+    <file name="u1417-4.png" crc="398441461" ref="index:nosotros:servicios:contacto:app:página-web:animación:ilustración:galería"/>
+    <file name="u294-4.png" crc="309689844" ref="index:nosotros:servicios:contacto:app:página-web:animación:ilustración:galería"/>
+    <file name="u1381-5.png" crc="198260442" ref="index"/>
+    <file name="u1384-5.png" crc="3780953530" ref="index"/>
+    <file name="u1390-4.png" crc="467758935" ref="index"/>
+    <file name="u1393-4.png" crc="268442823" ref="index"/>
+    <file name="u1396-4.png" crc="4062544608" ref="index"/>
+    <file name="u1378-5.png" crc="419943234" ref="index"/>
+    <file name="u1525-5.png" crc="79989154" ref="index"/>
+    <file name="u1531-5.png" crc="4059662399" ref="index"/>
+    <file name="u2667-8.png" crc="4101010119" ref="index:nosotros:servicios:contacto:app:página-web:animación:ilustración:galería"/>
+    <file name="logo 2-01-crop-u2733.jpg" crc="206075082" ref="nosotros"/>
+    <file name="blank.gif" crc="4208392903" ref="nosotros:servicios:contacto:app:página-web:animación:ilustración:galería"/>
+    <file name="loading.gif" crc="3815509949" ref="nosotros:servicios:contacto:app:página-web:animación:ilustración:galería"/>
+    <file name="m.jpg" crc="320311554" seo="true" ref="nosotros"/>
+    <file name="u1958-5.png" crc="4079169573" ref="nosotros"/>
+    <file name="u1955-5-a.png" crc="419943234" ref="nosotros"/>
+    <file name="u1959-5.png" crc="198260442" ref="nosotros"/>
+    <file name="u1960-5.png" crc="3780953530" ref="nosotros"/>
+    <file name="u1961-4.png" crc="467758935" ref="nosotros"/>
+    <file name="u1962-4.png" crc="268442823" ref="nosotros"/>
+    <file name="u1963-4.png" crc="4062544608" ref="nosotros"/>
+    <file name="u1956-5.png" crc="79989154" ref="nosotros"/>
+    <file name="u1957-5.png" crc="4059662399" ref="nosotros"/>
+    <file name="ilustracion vectorial animacion 1-01-01.jpg" crc="4238402853" seo="true" ref="servicios:galería"/>
+    <file name="ilustracion vectorial animacion 2-01.jpg" crc="461990317" seo="true" ref="servicios:galería"/>
+    <file name="ilustracion vectorial aplicacion 1-01.jpg" crc="3870391095" seo="true" ref="servicios:galería"/>
+    <file name="ilustracion vectorial aplicacion 2-01.jpg" crc="3999318365" seo="true" ref="servicios:galería"/>
+    <file name="ilustracion vectorial ilustracion 2 -recuperado--01.jpg" crc="4027128981" seo="true" ref="servicios:galería"/>
+    <file name="ilustracion vectorial ilustracion 2 -recuperado--02-01.jpg" crc="4181247489" seo="true" ref="servicios:galería"/>
+    <file name="ilustracion vectorial web 1-01.jpg" crc="4194959997" seo="true" ref="servicios:galería"/>
+    <file name="ilustracion vectorial web 2-01-01.jpg" crc="213444733" seo="true" ref="servicios:galería"/>
+    <file name="u1741-5.png" crc="4079169573" ref="servicios"/>
+    <file name="u1647-5.png" crc="419943234" ref="servicios"/>
+    <file name="u1650-5-a.png" crc="198260442" ref="servicios"/>
+    <file name="u1651-5.png" crc="3780953530" ref="servicios"/>
+    <file name="u1652-4.png" crc="3973740660" ref="servicios"/>
+    <file name="u1653-4.png" crc="268442823" ref="servicios"/>
+    <file name="u1654-4.png" crc="4062544608" ref="servicios"/>
+    <file name="u1648-5.png" crc="79989154" ref="servicios"/>
+    <file name="u1649-5.png" crc="4059662399" ref="servicios"/>
+    <file name="correo.jpg" crc="508766133" seo="true" ref="contacto"/>
+    <file name="u1221.png" crc="3919304135" ref="contacto"/>
+    <file name="u1221-ferr.png" crc="4011651878" ref="contacto"/>
+    <file name="u1255.png" crc="3945312662" ref="contacto"/>
+    <file name="u1255-ferr.png" crc="509964968" ref="contacto"/>
+    <file name="u1243.png" crc="33516345" ref="contacto"/>
+    <file name="u1243-ferr.png" crc="4288627323" ref="contacto"/>
+    <file name="u1247.png" crc="269858162" ref="contacto"/>
+    <file name="u1247-ferr.png" crc="70194640" ref="contacto"/>
+    <file name="u1234.png" crc="533846888" ref="contacto"/>
+    <file name="u1234-ferr.png" crc="3861775616" ref="contacto"/>
+    <file name="u1251.png" crc="50405628" ref="contacto"/>
+    <file name="u1251-ferr.png" crc="4134731256" ref="contacto"/>
+    <file name="u1238.png" crc="3998444779" ref="contacto"/>
+    <file name="u1238-ferr.png" crc="332625480" ref="contacto"/>
+    <file name="u1226.png" crc="92633912" ref="contacto"/>
+    <file name="u1226-ferr.png" crc="108945675" ref="contacto"/>
+    <file name="u1236-17.png" crc="502737027" ref="contacto"/>
+    <file name="u1236-17-r.png" crc="217628105" ref="contacto"/>
+    <file name="u1236-17-m.png" crc="4113665654" ref="contacto"/>
+    <file name="u1236-17-fs.png" crc="142335828" ref="contacto"/>
+    <file name="u1231.png" crc="294477296" ref="contacto"/>
+    <file name="u1231-ferr.png" crc="24610527" ref="contacto"/>
+    <file name="emp.jpg" crc="181185932" seo="true" ref="contacto"/>
+    <file name="123.png" crc="3902465222" seo="true" ref="contacto"/>
+    <file name="empresa.jpg" crc="4179217944" seo="true" ref="contacto"/>
+    <file name="ciudad.png" crc="89060506" seo="true" ref="contacto"/>
+    <file name="regi.png" crc="87959270" seo="true" ref="contacto"/>
+    <file name="u1750-5.png" crc="419943234" ref="contacto"/>
+    <file name="u1751-5.png" crc="79989154" ref="contacto"/>
+    <file name="u1753-5.png" crc="4079169573" ref="contacto"/>
+    <file name="u1754-5.png" crc="198260442" ref="contacto"/>
+    <file name="u1755-5.png" crc="3780953530" ref="contacto"/>
+    <file name="u1756-4.png" crc="467758935" ref="contacto"/>
+    <file name="u1757-4.png" crc="268442823" ref="contacto"/>
+    <file name="u1758-4.png" crc="4062544608" ref="contacto"/>
+    <file name="u1752-5-a.png" crc="4059662399" ref="contacto"/>
+    <file name="ilustracion vectorial aplicacion 1-012.jpg" crc="4120793489" seo="true" ref="app"/>
+    <file name="ilustracion vectorial aplicacion 2-012.jpg" crc="243860551" seo="true" ref="app"/>
+    <file name="aap.jpg" crc="3964643921" seo="true" ref="app"/>
+    <file name="u2003-5.png" crc="4079169573" ref="app"/>
+    <file name="u2000-5.png" crc="419943234" ref="app"/>
+    <file name="u2004-5.png" crc="198260442" ref="app"/>
+    <file name="u2005-5-a.png" crc="3780953530" ref="app"/>
+    <file name="u2006-4.png" crc="467758935" ref="app"/>
+    <file name="u2007-4.png" crc="268442823" ref="app"/>
+    <file name="u2008-4.png" crc="4062544608" ref="app"/>
+    <file name="u2001-5.png" crc="79989154" ref="app"/>
+    <file name="u2002-5.png" crc="4059662399" ref="app"/>
+    <file name="ilustracion vectorial web 1-012.jpg" crc="4214653977" seo="true" ref="página-web"/>
+    <file name="ilustracion vectorial web 2-01-012.jpg" crc="462090261" seo="true" ref="página-web"/>
+    <file name="pa.jpg" crc="449788623" seo="true" ref="página-web"/>
+    <file name="u2048-5.png" crc="4079169573" ref="página-web"/>
+    <file name="u2045-5.png" crc="419943234" ref="página-web"/>
+    <file name="u2049-5.png" crc="198260442" ref="página-web"/>
+    <file name="u2050-5.png" crc="3780953530" ref="página-web"/>
+    <file name="u2051-4-a.png" crc="467758935" ref="página-web"/>
+    <file name="u2052-4.png" crc="268442823" ref="página-web"/>
+    <file name="u2053-4.png" crc="4062544608" ref="página-web"/>
+    <file name="u2046-5.png" crc="79989154" ref="página-web"/>
+    <file name="u2047-5.png" crc="4059662399" ref="página-web"/>
+    <file name="ilustracion vectorial animacion 1-01-012.jpg" crc="207251498" seo="true" ref="animación"/>
+    <file name="ilustracion vectorial animacion 2-012.jpg" crc="4276102057" seo="true" ref="animación"/>
+    <file name="animacion-u4239.png" crc="4098954206" ref="animación"/>
+    <file name="u2093-5.png" crc="4079169573" ref="animación"/>
+    <file name="u2090-5.png" crc="419943234" ref="animación"/>
+    <file name="u2094-5.png" crc="198260442" ref="animación"/>
+    <file name="u2095-5.png" crc="3780953530" ref="animación"/>
+    <file name="u2096-4.png" crc="467758935" ref="animación"/>
+    <file name="u2097-4-a.png" crc="268442823" ref="animación"/>
+    <file name="u2098-4.png" crc="4062544608" ref="animación"/>
+    <file name="u2091-5.png" crc="79989154" ref="animación"/>
+    <file name="u2092-5.png" crc="4059662399" ref="animación"/>
+    <file name="ilustracion vectorial ilustracion 2 -recuperado--02-012.jpg" crc="4011354302" seo="true" ref="ilustración"/>
+    <file name="ilustracion vectorial ilustracion 2 -recuperado--012.jpg" crc="316030389" seo="true" ref="ilustración"/>
+    <file name="ilu-u4249.png" crc="3830468842" ref="ilustración"/>
+    <file name="u2138-5.png" crc="4079169573" ref="ilustración"/>
+    <file name="u2135-5.png" crc="419943234" ref="ilustración"/>
+    <file name="u2139-5.png" crc="198260442" ref="ilustración"/>
+    <file name="u2140-5.png" crc="3780953530" ref="ilustración"/>
+    <file name="u2141-4.png" crc="467758935" ref="ilustración"/>
+    <file name="u2142-4.png" crc="268442823" ref="ilustración"/>
+    <file name="u2143-4-a.png" crc="4062544608" ref="ilustración"/>
+    <file name="u2136-5.png" crc="79989154" ref="ilustración"/>
+    <file name="u2137-5.png" crc="4059662399" ref="ilustración"/>
+    <file name="u1798-5.png" crc="4079169573" ref="galería"/>
+    <file name="banner 1-crop-u4210.jpg" crc="519736399" ref="galería"/>
+    <file name="ilustracion vectorial animacion 1-01-01-crop-u3851.jpg" crc="198949508" ref="galería"/>
+    <file name="ilustracion vectorial animacion 2-01-crop-u3988.jpg" crc="3835474252" ref="galería"/>
+    <file name="ilustracion vectorial aplicacion 1-01-crop-u4008.jpg" crc="150436472" ref="galería"/>
+    <file name="ilustracion vectorial aplicacion 2-01-crop-u4028.jpg" crc="172093729" ref="galería"/>
+    <file name="ilustracion vectorial ilustracion 2 -recuperado--01-crop-u4048.jpg" crc="93264965" ref="galería"/>
+    <file name="ilustracion vectorial ilustracion 2 -recuperado--02-01-crop-u4068.jpg" crc="294824338" ref="galería"/>
+    <file name="ilustracion vectorial web 1-01-crop-u4088.jpg" crc="4100785864" ref="galería"/>
+    <file name="ilustracion vectorial web 2-01-01-crop-u4108.jpg" crc="470670718" ref="galería"/>
+    <file name="banner 1-crop-u4216.jpg" crc="4002514454" ref="galería"/>
+    <file name="u3862-4.png" crc="3846593172" ref="galería"/>
+    <file name="u3868-4.png" crc="3846593172" ref="galería"/>
+    <file name="u1795-5.png" crc="419943234" ref="galería"/>
+    <file name="u1799-5.png" crc="198260442" ref="galería"/>
+    <file name="u1800-5.png" crc="3780953530" ref="galería"/>
+    <file name="u1801-4.png" crc="467758935" ref="galería"/>
+    <file name="u1802-4.png" crc="268442823" ref="galería"/>
+    <file name="u1803-4.png" crc="4062544608" ref="galería"/>
+    <file name="u1796-5-a.png" crc="79989154" ref="galería"/>
+    <file name="u1797-5.png" crc="4059662399" ref="galería"/>
+  </folder>
+  <file name="index.html" crc="3845418337" seo="true" mt="1498156601542" redirect="true"/>
+  <file name="nosotros.html" crc="3889606289" seo="true" mt="1497541277006" redirect="true"/>
+  <file name="servicios.html" crc="536026022" seo="true" mt="1497541277006" redirect="true"/>
+  <file name="contacto.html" crc="107646505" seo="true" mt="1498156898798" redirect="true"/>
+  <file name="app.html" crc="4068771488" seo="true" mt="1497541277006" redirect="true"/>
+  <file name="página-web.html" crc="3876595673" seo="true" mt="1497541277006" redirect="true"/>
+  <file name="animación.html" crc="3794097902" seo="true" mt="1497541277006" redirect="true"/>
+  <file name="ilustración.html" crc="3984739856" seo="true" mt="1497541277006" redirect="true"/>
+  <file name="galería.html" crc="63132486" seo="true" mt="1497541277006" redirect="true"/>
+</manifest>
